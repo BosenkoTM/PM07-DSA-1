@@ -18,4 +18,4 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 Лекция `1`.
 - DBA Responsibilities.
 
-- Basic DBA Utilities.
+- [Basic DBA Utilities](/lectures/Basic-DBA-Utilities.md).
