@@ -16,6 +16,6 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 ## Лекции
 
 Лекция `1`.
-- DBA Responsibilities.
 
+- DBA Responsibilities. [Профстандарт: 06.011 Администратор баз данных № 408н](http://publication.pravo.gov.ru/document/0001202305310020?index=1)
 - [Basic DBA Utilities](/lectures/Basic-DBA-Utilities.md).
