@@ -30,7 +30,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 - [Пользователи и схемы базы данных. Привилегии, назначение привилегий](https://e-learning.bmstu.ru/mtkp/pluginfile.php/53253/mod_resource/content/1/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_MySQL-2023.pdf).
 
 Лекция `5`.
-Администрирование Windows server 2019-2022 core
+- [Администрирование Windows server 2019-2022 core](https://e-learning.bmstu.ru/mtkp/pluginfile.php/40363/mod_resource/content/1/3%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.pdf).
 
 ## Практические работы
 
