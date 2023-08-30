@@ -53,5 +53,8 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 Практика `5`. 
 - [Установка Windows server 2019 core + Docker](https://e-learning.bmstu.ru/mtkp/pluginfile.php/40362/mod_resource/content/5/4%20%D0%9F%D0%A0.pdf)
 
+## Тестирование
 
+- ТЕСТ 1 - НАЧАЛЬНЫЙ УРОВЕНЬ Установка, хранение данных и вычисления с Windows Server 2016-2022 [more](https://docs.google.com/forms/d/e/1FAIpQLSfKLvt0cxUFVyhe9vUcJq9k4TYvL8lazy-hFE9tCkKaF_Gfcw/closedform)
 
+- ТЕСТ 2 - СРЕДНИЙ УРОВЕНЬ Установка, хранение данных и вычисления с Windows Server 2016-2022 [more](https://docs.google.com/forms/d/e/1FAIpQLSdORHtuc-n_O7-knS1xep6rl_aRoFuPeOUTyIvu0pIu2KwF6Q/closedform)
