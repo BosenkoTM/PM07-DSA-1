@@ -22,3 +22,9 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 Лекция `2`.
 - [Basic DBA Utilities](/lectures/Basic-DBA-Utilities.md).
+
+Лекция `3`.
+- [Режимы запуска и останова базы данных](https://e-learning.bmstu.ru/mtkp/pluginfile.php/53251/mod_resource/content/1/3-Database%20start%20and%20stop%20modes.pdf).
+
+Лекция `4`.
+- [Пользователи и схемы базы данных. Привилегии, назначение привилегий](https://e-learning.bmstu.ru/mtkp/pluginfile.php/53253/mod_resource/content/1/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_MySQL-2023.pdf).
