@@ -1,4 +1,4 @@
-# Database Tools
+# Основные утилиты администратора баз данных 
 
 > Community driven list of database tools
 
