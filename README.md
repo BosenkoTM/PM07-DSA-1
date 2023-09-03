@@ -20,6 +20,7 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 - [DBA Responsibilities](https://e-learning.bmstu.ru/mtkp/pluginfile.php/39979/mod_resource/content/3/1-intro.pdf).
 - [Профстандарт: 06.011 Администратор баз данных № 408н](http://publication.pravo.gov.ru/document/0001202305310020?index=1), [скачать](/books/Приказ-Минтруда-России-от-27.04.2023-№-408н_Об-утв.-проф.-стандарта-Администратор-баз-данных.pdf).
 - [Функциональная карта профессионального стандарта](https://specialitet.ru/profstandards/06/1273).
+- 
 Лекция `2`.
 - [Basic DBA Utilities](/lectures/Basic-DBA-Utilities.md).
 
