@@ -65,14 +65,13 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 Практика `2`.
 - [Пользователи и схемы базы данных. Привилегии, назначение привилегий](https://e-learning.bmstu.ru/mtkp/pluginfile.php/53252/mod_resource/content/1/pr-2-2023.pdf).
 
-Практика `3`.
-- [Создание БД и интеграция внешних источников данных(неавтоматизированный ввод данных)](https://e-learning.bmstu.ru/mtkp/mod/assign/view.php?id=23451).
 
-Практика `4`.
+
+Практика `3`.
 - [Создание БД и интеграция внешних источников данных(автоматизированный ввод данных)](https://e-learning.bmstu.ru/mtkp/mod/folder/view.php?id=22976).
 
 
-Практика `5`. 
+Практика `4`. 
 - [Установка Windows server 2019 core + Docker](https://e-learning.bmstu.ru/mtkp/pluginfile.php/40362/mod_resource/content/5/4%20%D0%9F%D0%A0.pdf)
 
 
