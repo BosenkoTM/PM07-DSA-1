@@ -32,7 +32,7 @@
 
 Для выполнения работ потребуется:
 
-Материалы к практической работе[тут]().
+Материалы к практической работе [тут](/practice/pr_6/pr_6.rar).
 
 1. MySQL Workbench [8.0.26](https://dev.mysql.com/downloads/workbench/);
 2. PHPMYADMIN [линк](http://95.131.149.21:8080/repl1);
