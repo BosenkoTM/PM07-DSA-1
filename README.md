@@ -67,15 +67,23 @@ Timur Bosenko M. (bosenko@bmstu.ru)
 
 
 
-Практика `3`.
-- [Создание БД и интеграция внешних источников данных(автоматизированный ввод данных)](https://e-learning.bmstu.ru/mtkp/mod/folder/view.php?id=22976).
+Практика `3-1`. 
+- [Создание БД и интеграция внешних источников данных(автоматизированный ввод данных)](/practice/pr_3_1/pr3_1.md).
 
+Практика `3-2`. 
+- [Создание БД и интеграция внешних источников данных(автоматизированный ввод данных)](/practice/pr_3_2/pr3_2.md).
 
 Практика `4`. 
-- [Установка Windows server 2019 core + Docker](https://e-learning.bmstu.ru/mtkp/pluginfile.php/40362/mod_resource/content/5/4%20%D0%9F%D0%A0.pdf)
+- [Установка Windows server 2019 core + Docker](/practice/pr_4/pr_4.pdf).
 
+Практика `5`. 
+- [Установка Windows Server 2019, MySQL Server 8](/practice/pr_4/pr_4.pdf).
 
+Практика `6`. 
+- [Разработка технических требований к серверу баз данных](/practice/pr_6/pr6.md).
 
+Практика `7`. 
+- [Разработка требований к корпоративной сети](/practice/pr_7/pr7.md).
 ## Тестирование
 
 - ТЕСТ 1 - Установка, хранение данных и вычисления с Windows Server 2016-2022 [more](https://docs.google.com/forms/d/e/1FAIpQLSfKLvt0cxUFVyhe9vUcJq9k4TYvL8lazy-hFE9tCkKaF_Gfcw/closedform)
